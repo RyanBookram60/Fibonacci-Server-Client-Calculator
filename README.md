@@ -1,6 +1,6 @@
 # Fibonacci-Server-Client-Calculator
 ______________________________________
-Student Name: Ryan Bookram
+Student Name: Ryan Bookram<br>
 Course: Software Development 1 (14877)
 ______________________________________
 This java programming project aimed at creating a Server/Client connection using sockets and displaying an interactable UI to the user (Using Swing GUI). 
